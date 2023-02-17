@@ -1,0 +1,7 @@
+{
+  "name": "Flipper Buddy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
